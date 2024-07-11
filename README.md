@@ -1,4 +1,4 @@
-# Speed Typer Game
+# TypeRacer
 
 Try yourself: [Live demo](https://voice2post.netlify.app/)
 
