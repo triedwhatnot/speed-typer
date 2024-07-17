@@ -1,6 +1,6 @@
 # TypeRacer
 
-Try yourself: [Live demo](https://voice2post.netlify.app/)
+Try yourself: [Live demo](https://triedwhatnot.com/projects/type-racer)
 
 
 ## Description
